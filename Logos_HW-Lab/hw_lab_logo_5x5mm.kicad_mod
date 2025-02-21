@@ -1,0 +1,95 @@
+(footprint "hw_lab_logo_5x5mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "G***"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "723bb0a5-e886-4f8a-bc31-f898107de767")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Value" "LOGO"
+		(at 0.75 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "99083f9e-98c4-4345-849f-bd2c4b192190")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14a0b6ff-fc51-4ca1-8d0d-b40b16633439")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "880b3689-2720-41c1-aa5e-818160799016")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bebe1300-6660-46a1-bbcb-78f2b1595380")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(fp_poly
+		(pts
+			(xy 2.451737 0) (xy 2.451737 2.451737) (xy 0 2.451737) (xy -2.451737 2.451737) (xy -2.451737 0) (xy -2.451737 -1.152317)
+			(xy 0 -1.152317) (xy 0 0) (xy 2.3 0) (xy 2.29 -2.3) (xy 0 -2.304633) (xy 0 -1.152317) (xy -2.451737 -1.152317)
+			(xy -2.451737 -2.451737) (xy 0 -2.451737) (xy 2.451737 -2.451737)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "afcfbdeb-3973-4373-8271-249ca04fe669")
+	)
+	(fp_poly
+		(pts
+			(xy 2.443474 -0.001737) (xy 2.443474 2.45) (xy -0.008263 2.45) (xy -2.46 2.45) (xy -2.46 -0.001737)
+			(xy -2.46 -1.154054) (xy -0.008263 -1.154054) (xy -0.008263 -0.001737) (xy 2.291737 -0.001737) (xy 2.281737 -2.301737)
+			(xy -0.008263 -2.30637) (xy -0.008263 -1.154054) (xy -2.46 -1.154054) (xy -2.46 -2.453474) (xy -0.008263 -2.453474)
+			(xy 2.443474 -2.453474)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "b9fa5de5-c2c5-4997-9518-37b8e328daee")
+	)
+)

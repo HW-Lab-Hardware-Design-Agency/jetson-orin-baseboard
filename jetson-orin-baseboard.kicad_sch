@@ -2420,7 +2420,7 @@
 		)
 	)
 	(image
-		(at 213.36 116.84)
+		(at -81.28 137.16)
 		(scale 0.236667)
 		(uuid "f0d8e628-0327-4893-a715-074972957e3f")
 		(data "iVBORw0KGgoAAAANSUhEUgAAB3MAAARICAYAAAAYivsYAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz"
@@ -26204,7 +26204,7 @@
 		)
 	)
 	(sheet
-		(at 203.2 203.2)
+		(at -22.86 190.5)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26216,7 +26216,7 @@
 		)
 		(uuid "41d8b114-08d9-401f-9e4d-c909a6d0b03e")
 		(property "Sheetname" "HDMI"
-			(at 203.2 202.4884 0)
+			(at -22.86 189.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26225,7 +26225,7 @@
 			)
 		)
 		(property "Sheetfile" "hdmi.kicad_sch"
-			(at 203.2 216.4846 0)
+			(at -22.86 203.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26242,7 +26242,7 @@
 		)
 	)
 	(sheet
-		(at 171.45 203.2)
+		(at -49.53 190.5)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26254,7 +26254,7 @@
 		)
 		(uuid "48dc7bcf-c3fe-4bb4-a045-e4bc8a9ae6bd")
 		(property "Sheetname" "USB3"
-			(at 171.45 202.4884 0)
+			(at -49.53 189.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26263,7 +26263,7 @@
 			)
 		)
 		(property "Sheetfile" "usb3.kicad_sch"
-			(at 171.45 216.4846 0)
+			(at -49.53 203.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26280,7 +26280,7 @@
 		)
 	)
 	(sheet
-		(at 171.45 228.6)
+		(at -49.53 215.9)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26292,7 +26292,7 @@
 		)
 		(uuid "59bef8df-3171-4033-8c33-797c4a36c09c")
 		(property "Sheetname" "Supply"
-			(at 171.45 227.8884 0)
+			(at -49.53 215.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26301,7 +26301,7 @@
 			)
 		)
 		(property "Sheetfile" "supply.kicad_sch"
-			(at 171.45 241.8846 0)
+			(at -49.53 229.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26318,28 +26318,31 @@
 		)
 	)
 	(sheet
-		(at 76.2 203.2)
-		(size 12.7 12.7)
+		(at 195.58 73.66)
+		(size 21.59 143.51)
 		(fields_autoplaced yes)
 		(stroke
-			(width 0.1524)
+			(width 0.3048)
 			(type solid)
+			(color 0 0 255 1)
 		)
 		(fill
 			(color 0 0 0 0.0000)
 		)
 		(uuid "68b67bb9-703f-4397-bb09-4d44d3a917ad")
 		(property "Sheetname" "SoM"
-			(at 76.2 202.4884 0)
+			(at 195.58 70.9672 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(face "ISOCPEUR")
+					(size 5.08 5.08)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "som.kicad_sch"
-			(at 76.2 216.4846 0)
+			(at 195.58 217.8308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26356,7 +26359,7 @@
 		)
 	)
 	(sheet
-		(at 107.95 228.6)
+		(at -113.03 215.9)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26368,7 +26371,7 @@
 		)
 		(uuid "74489b5f-faab-4d0f-b844-94a09965eefb")
 		(property "Sheetname" "CSI"
-			(at 107.95 227.8884 0)
+			(at -113.03 215.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26377,7 +26380,7 @@
 			)
 		)
 		(property "Sheetfile" "csi.kicad_sch"
-			(at 107.95 241.8846 0)
+			(at -113.03 229.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26394,7 +26397,7 @@
 		)
 	)
 	(sheet
-		(at 107.95 203.2)
+		(at -113.03 190.5)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26406,7 +26409,7 @@
 		)
 		(uuid "8161d945-5864-43d7-8197-061df5f04897")
 		(property "Sheetname" "M.2"
-			(at 107.95 202.4884 0)
+			(at -113.03 189.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26415,7 +26418,7 @@
 			)
 		)
 		(property "Sheetfile" "m-2.kicad_sch"
-			(at 107.95 216.4846 0)
+			(at -113.03 203.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26432,7 +26435,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 228.6)
+		(at -144.78 215.9)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26444,7 +26447,7 @@
 		)
 		(uuid "c02b5883-ce9f-434b-a7ad-5c5e18a595c8")
 		(property "Sheetname" "Ethernet"
-			(at 76.2 227.8884 0)
+			(at -144.78 215.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26453,7 +26456,7 @@
 			)
 		)
 		(property "Sheetfile" "ethernet.kicad_sch"
-			(at 76.2 241.8846 0)
+			(at -144.78 229.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26470,7 +26473,7 @@
 		)
 	)
 	(sheet
-		(at 139.7 228.6)
+		(at -81.28 215.9)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26482,7 +26485,7 @@
 		)
 		(uuid "e2c0f9a7-dbaa-401b-8614-57eda30161fa")
 		(property "Sheetname" "Peripherals"
-			(at 139.7 227.8884 0)
+			(at -81.28 215.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26491,7 +26494,7 @@
 			)
 		)
 		(property "Sheetfile" "peripherals.kicad_sch"
-			(at 139.7 241.8846 0)
+			(at -81.28 229.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26508,7 +26511,7 @@
 		)
 	)
 	(sheet
-		(at 139.7 203.2)
+		(at -81.28 190.5)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26520,7 +26523,7 @@
 		)
 		(uuid "ea236701-ba50-4026-b890-5436b3eb8139")
 		(property "Sheetname" "USB Debug, DP"
-			(at 139.7 202.4884 0)
+			(at -81.28 189.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26529,7 +26532,7 @@
 			)
 		)
 		(property "Sheetfile" "usb.kicad_sch"
-			(at 139.7 216.4846 0)
+			(at -81.28 203.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
