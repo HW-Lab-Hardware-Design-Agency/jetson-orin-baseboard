@@ -11338,6 +11338,17 @@
 		)
 		(uuid "16d7adf9-28ea-470d-8d39-b3802a639dea")
 	)
+	(text "Sustitute Chinese:\nHY911130A"
+		(exclude_from_sim no)
+		(at 187.452 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "34cc52b1-e0a3-4e5d-8aed-9ac653a918cf")
+	)
 	(text "Ethernet Connector"
 		(exclude_from_sim no)
 		(at 171.45 21.59 0)
@@ -11974,9 +11985,9 @@
 		(at 220.98 204.47 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "01870d49-b896-43e3-a67b-d1bdd7f83e27")
 		(property "Reference" "C81"
 			(at 222.885 199.39 90)
@@ -12121,6 +12132,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "445-C5750X7S2A226M280KBCT-ND"
+			(at 220.98 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d661223e-ffbd-4926-bad4-69b9d5a96faf")
 		)
@@ -12234,9 +12254,9 @@
 		(at 83.82 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "07a187a6-c46a-4c12-8bef-f79f624dbdab")
 		(property "Reference" "FB2"
@@ -12361,6 +12381,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-1054-1-ND"
+			(at 83.82 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcd802e5-b71e-4458-994b-129601c2d851")
 		)
@@ -12381,9 +12410,9 @@
 		(at 273.05 236.22 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0d2a6a6e-7e87-43ba-b2a9-2e73c71e0a28")
 		(property "Reference" "R155"
 			(at 278.13 235.585 0)
@@ -12501,6 +12530,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202394"
+			(at 273.05 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1001GLFCT-ND"
 			(at 273.05 236.22 0)
 			(effects
 				(font
@@ -12808,9 +12846,9 @@
 		(at 303.53 236.22 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "15884bd5-cf48-42a9-8e55-44d608a49bf4")
 		(property "Reference" "R156"
 			(at 308.61 235.585 0)
@@ -12936,6 +12974,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1001GLFCT-ND"
+			(at 303.53 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "decf7fee-b932-48a8-b2ed-b348599dbf90")
 		)
@@ -13050,9 +13097,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "26f4039b-c439-4cc8-a4bb-4808aec1936c")
 		(property "Reference" "U39"
 			(at 292.1 226.695 0)
@@ -13158,6 +13205,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "516-1978-1-ND"
+			(at 298.45 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "554706c5-92c1-44c5-aee7-6e20bb78f1f2")
 		)
@@ -13184,9 +13240,9 @@
 		(at 118.11 220.98 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "287b9e1f-9278-42a5-960e-a3e0fc489b79")
 		(property "Reference" "R129"
 			(at 118.11 220.345 0)
@@ -13323,6 +13379,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "P0.0JCT-ND"
+			(at 118.11 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d5ffdef-9743-479a-9044-08f4c4d4a7cb")
 		)
@@ -13343,9 +13408,9 @@
 		(at 83.82 213.36 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "28ae1f16-6b81-4fe8-973a-30fc55180ed9")
 		(property "Reference" "FB3"
@@ -13462,6 +13527,15 @@
 			)
 		)
 		(property "LCSC Part #" "C85840"
+			(at 83.82 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "490-1054-1-ND"
 			(at 83.82 213.36 0)
 			(effects
 				(font
@@ -13618,6 +13692,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 179.07 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79344056-4297-4773-a784-4b3e0c842370")
 		)
@@ -13732,9 +13815,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "39ec2c15-62dc-4b47-b3cc-f178d04b383a")
 		(property "Reference" "R196"
 			(at 123.19 205.74 90)
@@ -13851,6 +13934,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "118-CR0603-FX-63R4ELFCT-ND"
+			(at 124.46 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7ab6551-0037-4c24-9210-4173dc767a3e")
 		)
@@ -13871,9 +13963,9 @@
 		(at 200.66 204.47 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3a634a50-3361-4efe-9bb7-8dbce2022ccb")
 		(property "Reference" "C79"
 			(at 202.565 199.39 90)
@@ -14018,6 +14110,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "445-C5750X7S2A226M280KBCT-ND"
+			(at 200.66 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c83aa4f7-e86f-440e-ad7f-849ca58f37ef")
 		)
@@ -14038,9 +14139,9 @@
 		(at 307.34 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3bee3e15-892d-4ee8-ad96-8ed4bcdcb6c9")
 		(property "Reference" "U23"
 			(at 317.5 176.53 0)
@@ -14183,6 +14284,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "811-2198-ND"
+			(at 307.34 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52f13ac6-fcd6-4067-8a58-896e49d542af")
 		)
@@ -14314,9 +14424,9 @@
 		(at 53.34 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "488e763e-375e-4227-a36b-dffeeb568305")
 		(property "Reference" "D13"
 			(at 62.23 193.04 0)
@@ -14419,6 +14529,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "118-CD-MMBL110SCT-ND"
+			(at 53.34 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e22f522-80f3-4e47-b876-c166384d83d2")
 		)
@@ -14445,9 +14564,9 @@
 		(at 175.26 213.36 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "497a5e99-0eb3-4036-9b11-2f6c0e56803f")
 		(property "Reference" "R148"
 			(at 175.26 212.725 0)
@@ -14573,6 +14692,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 175.26 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73323c6e-f4ba-4f21-994c-b5bd6420d96e")
 		)
@@ -14593,9 +14721,9 @@
 		(at 257.81 190.5 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4d0e2199-a845-4997-a197-0e8c36e987c1")
 		(property "Reference" "R198"
 			(at 259.08 186.69 90)
@@ -14713,6 +14841,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2085488"
+			(at 257.81 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-4703GLFCT-ND"
 			(at 257.81 190.5 0)
 			(effects
 				(font
@@ -15056,6 +15193,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 168.91 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "30639539-09a2-4a2e-91ed-d14e70c754f4")
 		)
@@ -15197,6 +15343,15 @@
 			)
 		)
 		(property "LCSC Part #" "C19946422"
+			(at 218.44 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-2000GLFCT-ND"
 			(at 218.44 81.28 0)
 			(effects
 				(font
@@ -15447,6 +15602,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4703GLFCT-ND"
+			(at 297.18 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dad07b7a-9465-4358-8294-133a224caca3")
 		)
@@ -15596,6 +15760,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-2000GLFCT-ND"
+			(at 218.44 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3ea94fba-c84e-48e6-b337-4dd921419202")
 		)
@@ -15617,9 +15790,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5b1d4234-9b26-416f-8899-d12b4e0fce27")
 		(property "Reference" "C52"
@@ -15748,6 +15921,15 @@
 			)
 		)
 		(property "LCSC Part #" "C85960"
+			(at 369.57 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "490-10697-1-ND"
 			(at 369.57 187.96 0)
 			(effects
 				(font
@@ -16090,6 +16272,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1003GLFCT-ND"
+			(at 297.18 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c96e0e2-9425-4087-a69e-913958959d5c")
 		)
@@ -16110,9 +16301,9 @@
 		(at 359.41 193.04 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6d5c3d8a-5710-4f28-ba47-4f60ecde6af4")
 		(property "Reference" "C85"
@@ -16258,6 +16449,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "445-6003-1-ND"
+			(at 359.41 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "197329b4-4315-4494-bb5a-07017a20a780")
 		)
@@ -16278,9 +16478,9 @@
 		(at 210.82 204.47 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "702fb66e-9fdc-42bb-b4a6-392eb93a4eae")
 		(property "Reference" "C80"
 			(at 212.725 199.39 90)
@@ -16425,6 +16625,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "445-C5750X7S2A226M280KBCT-ND"
+			(at 210.82 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9d1863c-3c99-41ca-9208-d921fa280bb5")
 		)
@@ -16445,9 +16654,9 @@
 		(at 138.43 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "71b330e6-bba9-4756-8544-aaf16331ec6c")
 		(property "Reference" "U22"
 			(at 149.225 186.69 0)
@@ -16542,6 +16751,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2876734"
+			(at 138.43 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "296-51871-1-ND"
 			(at 138.43 193.04 0)
 			(effects
 				(font
@@ -16767,6 +16985,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 210.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "004f9fc9-9f3b-4601-8ad9-9780da01e899")
 		)
@@ -16787,9 +17014,9 @@
 		(at 257.81 215.9 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "805d665d-a096-433b-b150-c79c260bbf0d")
 		(property "Reference" "R185"
 			(at 259.08 212.09 90)
@@ -16915,6 +17142,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1003GLFCT-ND"
+			(at 257.81 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5923054e-cbd1-4457-b6ac-291493e9b3ab")
 		)
@@ -16935,9 +17171,9 @@
 		(at 113.03 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "850f525c-cce4-45a7-aa0b-e6de2ede172a")
 		(property "Reference" "R123"
 			(at 118.11 215.265 0)
@@ -17054,6 +17290,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1301GLFCT-ND"
+			(at 113.03 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca329eeb-6f3f-429e-8073-29da6b107cdb")
 		)
@@ -17074,9 +17319,9 @@
 		(at 349.25 193.04 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8d940512-9013-4ef1-880e-b5ad411e4826")
 		(property "Reference" "C84"
 			(at 351.155 187.96 90)
@@ -17213,6 +17458,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2167809"
+			(at 349.25 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "445-6003-1-ND"
 			(at 349.25 193.04 0)
 			(effects
 				(font
@@ -17380,6 +17634,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "P0.0JCT-ND"
+			(at 267.97 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4ffc6f9-06d6-4518-95ba-45ca97d1e67d")
 		)
@@ -17493,11 +17756,11 @@
 		(at 53.34 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a0daefc9-70c8-4654-a4cb-a2b2d72ad85d")
-		(property "Reference" "D12"
+		(property "Reference" "De1"
 			(at 62.23 172.72 0)
 			(effects
 				(font
@@ -17598,6 +17861,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "118-CD-MMBL110SCT-ND"
+			(at 53.34 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "205563f7-4b6e-4685-877a-3d9e37e83762")
 		)
@@ -17613,7 +17885,7 @@
 		(instances
 			(project "jetson-orin-baseboard"
 				(path "/4b393452-b11e-416e-bc83-918ae3cab2f1/c02b5883-ce9f-434b-a7ad-5c5e18a595c8"
-					(reference "D12")
+					(reference "De1")
 					(unit 1)
 				)
 			)
@@ -17624,9 +17896,9 @@
 		(at 101.6 200.66 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ac1f7f65-0a55-40ca-adf4-ad6b0a05f302")
 		(property "Reference" "C76"
@@ -17979,9 +18251,9 @@
 		(at 241.3 190.5 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b893a028-8e7e-4abe-8214-9f565989fb5d")
 		(property "Reference" "R154"
 			(at 242.57 186.69 90)
@@ -18095,6 +18367,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-2492GLFCT-ND"
+			(at 241.3 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18622,6 +18903,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0603-J/-000ELFCT-ND"
+			(at 339.09 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "186fde6c-31e7-4f82-8145-aca4f0ea20a7")
 		)
@@ -18735,9 +19025,9 @@
 		(at 133.35 189.23 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c5f8ba27-5f36-4027-b616-92fc181042f0")
 		(property "Reference" "R146"
 			(at 132.08 185.42 90)
@@ -18854,6 +19144,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-2492GLFCT-ND"
+			(at 133.35 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0aeb1d7-959a-430c-ba01-8e1880f26857")
 		)
@@ -18874,9 +19173,9 @@
 		(at 113.03 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c62e24c1-b9e6-4ec7-92fe-1b341dc7ec16")
 		(property "Reference" "R142"
 			(at 118.11 217.805 0)
@@ -18994,6 +19293,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2076619"
+			(at 113.03 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-4992GLFCT-ND"
 			(at 113.03 218.44 0)
 			(effects
 				(font
@@ -19161,6 +19469,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0603-J/-000ELFCT-ND"
+			(at 339.09 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "389fb842-af31-4876-b597-aa418c593c85")
 		)
@@ -19313,6 +19630,15 @@
 			)
 		)
 		(property "LCSC Part #" "C597086"
+			(at 179.07 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "478-KGM15AR72A103JTCT-ND"
 			(at 179.07 92.71 0)
 			(effects
 				(font
@@ -19562,6 +19888,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 187.96 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "062dec41-a326-45ae-b9ef-9ae18e710a31")
 		)
@@ -19582,9 +19917,9 @@
 		(at 267.97 207.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e19af74f-19b9-40b5-a921-ab0ce4b63f37")
 		(property "Reference" "Q17"
 			(at 276.86 203.2 0)
@@ -19690,6 +20025,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "3757-PJE138K_R1_00001CT-ND"
+			(at 267.97 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "593120ba-ca2f-4fb4-a57d-3a08e5c2446f")
 		)
@@ -19713,9 +20057,9 @@
 		(at 231.14 204.47 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e1bb9720-b6e9-43a2-83bc-4bc213178272")
 		(property "Reference" "C82"
 			(at 233.045 199.39 90)
@@ -19852,6 +20196,15 @@
 			)
 		)
 		(property "LCSC Part #" "C529057"
+			(at 231.14 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "445-C5750X7S2A226M280KBCT-ND"
 			(at 231.14 204.47 0)
 			(effects
 				(font
@@ -20196,9 +20549,9 @@
 		(at 127 209.55 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f19505a2-6f9b-4a22-bdf1-056a1c54ea2e")
 		(property "Reference" "R145"
 			(at 128.27 205.74 90)
@@ -20324,6 +20677,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1201GLFCT-ND"
+			(at 127 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a0501e2-ec42-40e7-b6d4-060d6ebc1d62")
 		)
@@ -20344,9 +20706,9 @@
 		(at 96.52 195.58 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f5a1e24f-20f3-4489-b08a-15ec4f0f2925")
 		(property "Reference" "D14"
@@ -20444,6 +20806,15 @@
 			)
 		)
 		(property "LCSC Part #" "C272849"
+			(at 96.52 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "1727-PTVS58VS1UR,115CT-ND"
 			(at 96.52 195.58 0)
 			(effects
 				(font
@@ -20602,6 +20973,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-2000GLFCT-ND"
+			(at 220.98 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "201416f6-089f-4eba-9231-585b9f638c02")
 		)
@@ -20623,9 +21003,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fd333776-4b0d-47ad-8129-f3f78e9f1060")
 		(property "Reference" "D15"
 			(at 244.475 212.09 90)
@@ -20732,6 +21112,15 @@
 			)
 		)
 		(property "LCSC Part #" "C125093"
+			(at 241.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "160-1183-1-ND"
 			(at 241.3 215.9 0)
 			(effects
 				(font

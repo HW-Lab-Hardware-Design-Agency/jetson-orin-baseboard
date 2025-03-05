@@ -25616,9 +25616,9 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAA4C9VptvhN78OkAAAAAElFTkSuQmCC"
 		)
 	)
-	(text "github.com/antmicro/jetson-orin-baseboard"
+	(text "github.com/antmicro/jetson-orin-baseboard\nhttps://antmicro.github.io/jetson-orin-baseboard/getting_started.html#"
 		(exclude_from_sim no)
-		(at 14.605 31.115 0)
+		(at 14.732 35.052 0)
 		(effects
 			(font
 				(size 3 3)
@@ -25628,6 +25628,28 @@
 			(justify left bottom)
 		)
 		(uuid "492ae87b-0f0a-4add-9db9-45db485d085a")
+	)
+	(text "Sustitute to H1...H7:\nSMTWE2565MTJ (Chinese brand)"
+		(exclude_from_sim no)
+		(at 365.506 246.126 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5dde4eb2-451e-4e2a-b0b6-d66201b094c6")
+	)
+	(text "+-------------------+----------+\n|      Section      |  Page No.|\n+-------------------+----------+\n| SoM               |    2     \n| M.2                |    3     \n| USB Debug, DP     |    4     \n| USB3              |    5     \n| HDMI connector    |    6     \n| Ethernet          |    7     \n| CSI               |    8     \n| Peripherals       |    9     \n| Supply            |   10     \n+-------------------+----------+\n"
+		(exclude_from_sim no)
+		(at 382.016 125.984 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify right)
+		)
+		(uuid "7b1af74d-4ef0-499a-b83b-14eae0ce7aa8")
 	)
 	(text "Jetson Orin Baseboard"
 		(exclude_from_sim no)
@@ -25840,6 +25862,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "732-9774065151RCT-ND"
+			(at 368.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b9118c5-64e7-4e1d-96c8-33a953c9aeaa")
 		)
@@ -25954,6 +25985,15 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "732-9774065151RCT-ND"
+			(at 368.3 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -26074,6 +26114,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "732-9774065151RCT-ND"
+			(at 368.3 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "556c9f12-7700-4826-8f4d-649c3d867fac")
 		)
@@ -26191,6 +26240,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "732-9774065151RCT-ND"
+			(at 368.3 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce47e314-e2e3-4269-a8bf-919b607ed909")
 		)
@@ -26204,7 +26262,7 @@
 		)
 	)
 	(sheet
-		(at -22.86 190.5)
+		(at 143.51 185.42)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26216,7 +26274,7 @@
 		)
 		(uuid "41d8b114-08d9-401f-9e4d-c909a6d0b03e")
 		(property "Sheetname" "HDMI"
-			(at -22.86 189.7884 0)
+			(at 143.51 184.7084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26225,7 +26283,7 @@
 			)
 		)
 		(property "Sheetfile" "hdmi.kicad_sch"
-			(at -22.86 203.7846 0)
+			(at 143.51 198.7046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26242,7 +26300,7 @@
 		)
 	)
 	(sheet
-		(at -49.53 190.5)
+		(at 143.51 113.03)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26254,7 +26312,7 @@
 		)
 		(uuid "48dc7bcf-c3fe-4bb4-a045-e4bc8a9ae6bd")
 		(property "Sheetname" "USB3"
-			(at -49.53 189.7884 0)
+			(at 143.51 112.3184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26263,7 +26321,7 @@
 			)
 		)
 		(property "Sheetfile" "usb3.kicad_sch"
-			(at -49.53 203.7846 0)
+			(at 143.51 126.3146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26280,7 +26338,7 @@
 		)
 	)
 	(sheet
-		(at -49.53 215.9)
+		(at 118.11 44.45)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26292,7 +26350,7 @@
 		)
 		(uuid "59bef8df-3171-4033-8c33-797c4a36c09c")
 		(property "Sheetname" "Supply"
-			(at -49.53 215.1884 0)
+			(at 118.11 43.7384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26301,7 +26359,7 @@
 			)
 		)
 		(property "Sheetfile" "supply.kicad_sch"
-			(at -49.53 229.1846 0)
+			(at 118.11 57.7346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26318,7 +26376,7 @@
 		)
 	)
 	(sheet
-		(at 195.58 73.66)
+		(at 71.12 69.85)
 		(size 21.59 143.51)
 		(fields_autoplaced yes)
 		(stroke
@@ -26331,7 +26389,7 @@
 		)
 		(uuid "68b67bb9-703f-4397-bb09-4d44d3a917ad")
 		(property "Sheetname" "SoM"
-			(at 195.58 70.9672 0)
+			(at 71.12 67.1572 0)
 			(effects
 				(font
 					(face "ISOCPEUR")
@@ -26342,7 +26400,7 @@
 			)
 		)
 		(property "Sheetfile" "som.kicad_sch"
-			(at 195.58 217.8308 0)
+			(at 71.12 214.0208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26359,7 +26417,7 @@
 		)
 	)
 	(sheet
-		(at -113.03 215.9)
+		(at 143.51 162.56)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26371,7 +26429,7 @@
 		)
 		(uuid "74489b5f-faab-4d0f-b844-94a09965eefb")
 		(property "Sheetname" "CSI"
-			(at -113.03 215.1884 0)
+			(at 143.51 161.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26380,7 +26438,7 @@
 			)
 		)
 		(property "Sheetfile" "csi.kicad_sch"
-			(at -113.03 229.1846 0)
+			(at 143.51 175.8446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26397,7 +26455,7 @@
 		)
 	)
 	(sheet
-		(at -113.03 190.5)
+		(at 143.51 67.31)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26409,7 +26467,7 @@
 		)
 		(uuid "8161d945-5864-43d7-8197-061df5f04897")
 		(property "Sheetname" "M.2"
-			(at -113.03 189.7884 0)
+			(at 143.51 66.5984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26418,7 +26476,7 @@
 			)
 		)
 		(property "Sheetfile" "m-2.kicad_sch"
-			(at -113.03 203.7846 0)
+			(at 143.51 80.5946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26435,7 +26493,7 @@
 		)
 	)
 	(sheet
-		(at -144.78 215.9)
+		(at 143.51 139.7)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26447,7 +26505,7 @@
 		)
 		(uuid "c02b5883-ce9f-434b-a7ad-5c5e18a595c8")
 		(property "Sheetname" "Ethernet"
-			(at -144.78 215.1884 0)
+			(at 143.51 138.9884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26456,7 +26514,7 @@
 			)
 		)
 		(property "Sheetfile" "ethernet.kicad_sch"
-			(at -144.78 229.1846 0)
+			(at 143.51 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26473,7 +26531,7 @@
 		)
 	)
 	(sheet
-		(at -81.28 215.9)
+		(at 143.51 209.55)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26485,7 +26543,7 @@
 		)
 		(uuid "e2c0f9a7-dbaa-401b-8614-57eda30161fa")
 		(property "Sheetname" "Peripherals"
-			(at -81.28 215.1884 0)
+			(at 143.51 208.8384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26494,7 +26552,7 @@
 			)
 		)
 		(property "Sheetfile" "peripherals.kicad_sch"
-			(at -81.28 229.1846 0)
+			(at 143.51 222.8346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26511,7 +26569,7 @@
 		)
 	)
 	(sheet
-		(at -81.28 190.5)
+		(at 143.51 90.17)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -26523,7 +26581,7 @@
 		)
 		(uuid "ea236701-ba50-4026-b890-5436b3eb8139")
 		(property "Sheetname" "USB Debug, DP"
-			(at -81.28 189.7884 0)
+			(at 143.51 89.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26532,7 +26590,7 @@
 			)
 		)
 		(property "Sheetfile" "usb.kicad_sch"
-			(at -81.28 203.7846 0)
+			(at 143.51 103.4546 0)
 			(effects
 				(font
 					(size 1.27 1.27)

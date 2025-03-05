@@ -25857,6 +25857,16 @@
 		)
 		(uuid "008927a9-2e50-4316-a4b4-7b97d46cf2a9")
 	)
+	(text "Sustitute Chinese:\nFEXL0530A-R56M"
+		(exclude_from_sim no)
+		(at 298.704 183.896 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "148edb71-5842-4c84-b14f-2c11ee21744b")
+	)
 	(text "Sets UVLO to 8.4V"
 		(exclude_from_sim no)
 		(at 212.852 113.792 0)
@@ -25968,6 +25978,16 @@
 			(justify left bottom)
 		)
 		(uuid "755b96f2-4855-48c2-974e-483f964a4043")
+	)
+	(text "Sustitute Chinese:\nYSPIT0650A-1R0M"
+		(exclude_from_sim no)
+		(at 300.228 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7ee38a21-6fce-4d05-8d3c-1f702b63657c")
 	)
 	(text "NOTE:\nSW1 STARTUP CRTL\n1-2 AUTO \n3-2 MANUAL"
 		(exclude_from_sim no)
@@ -26094,6 +26114,17 @@
 			(justify left bottom)
 		)
 		(uuid "c10109f3-e439-4a46-8037-1cc64dca910b")
+	)
+	(text "Sustitute Chinese:\nMSK12C02"
+		(exclude_from_sim no)
+		(at 63.5 67.564 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "c482b5f0-8a76-47de-963a-1f9baab25f0d")
 	)
 	(text "1.8V\n@200mA"
 		(exclude_from_sim no)
@@ -26860,6 +26891,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "DF2S30FSL3MCT-ND"
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "87d83819-d0db-4991-966a-67d8c27c3a89")
 		)
@@ -26980,6 +27020,15 @@
 			)
 		)
 		(property "LCSC Part #" "C41364466"
+			(at 358.14 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "ESD9X5.0ST5GOSCT-ND"
 			(at 358.14 135.89 0)
 			(effects
 				(font
@@ -27335,6 +27384,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "399-C0402C102J4RACTUCT-ND"
+			(at 265.43 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "719fa040-f199-4651-8bf2-94d5e37835a7")
 		)
@@ -27475,6 +27533,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202396"
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
 			(at 153.67 49.53 0)
 			(effects
 				(font
@@ -27724,6 +27791,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4701GLFCT-ND"
+			(at 109.22 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9470597f-21e4-4782-981f-c16323e9ddbc")
 		)
@@ -27843,6 +27919,15 @@
 			)
 		)
 		(property "LCSC Part #" "C41364466"
+			(at 386.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "ESD9X5.0ST5GOSCT-ND"
 			(at 386.08 72.39 0)
 			(effects
 				(font
@@ -28009,6 +28094,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "445-7368-1-ND"
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A105KA5NQNC"
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fc0013f-a767-4bba-8f79-23ca0924886d")
 		)
@@ -28150,6 +28253,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2085386"
+			(at 214.63 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-4993GLFCT-ND"
 			(at 214.63 153.67 0)
 			(effects
 				(font
@@ -28782,6 +28894,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "445-9015-1-ND"
+			(at 318.77 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL10A106MA8NRNC"
+			(at 318.77 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e77fa22-5314-46b2-be29-cd4d3ff3f2c5")
 		)
@@ -28923,6 +29053,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2085386"
+			(at 223.52 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-4993GLFCT-ND"
 			(at 223.52 153.67 0)
 			(effects
 				(font
@@ -29172,6 +29311,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 156.21 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4777e543-ed41-451b-9bec-af9a2415b707")
 		)
@@ -29292,6 +29440,15 @@
 			)
 		)
 		(property "LCSC Part #" "C391643"
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "3757-PJE138K_R1_00001CT-ND"
 			(at 147.32 64.77 0)
 			(effects
 				(font
@@ -29681,6 +29838,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "488-NCP730BMT330TBGCT-ND"
+			(at 331.47 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "addaab07-6b6a-461e-a997-bfb2d42669d2")
 		)
@@ -30012,6 +30178,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 124.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6061fd8-c3d1-4901-a44b-ffbaa4ac9491")
 		)
@@ -30132,6 +30307,15 @@
 		)
 		(property "LCSC Part #" "C221676"
 			(at 43.18 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CKN10243CT-ND"
+			(at 43.18 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30626,6 +30810,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "160-1183-1-ND"
+			(at 156.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "LTST-C190KRKT"
+			(at 156.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "391ae972-c8c7-4b2f-b6a8-76926def0e72")
 		)
@@ -30860,6 +31062,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2085386"
+			(at 214.63 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-4993GLFCT-ND"
 			(at 214.63 138.43 0)
 			(effects
 				(font
@@ -31247,6 +31458,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "SSM3J332RLFCT-ND"
+			(at 63.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e96dba8-8b5b-4b74-9014-d267adc97095")
 		)
@@ -31491,6 +31711,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-2003GLFCT-ND"
+			(at 91.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f8e2f66-8c00-4997-99bd-1271b8cfec46")
 		)
@@ -31638,6 +31867,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4703GLFCT-ND"
+			(at 254 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a2fcf71-6975-49cf-8200-d9b814a63b24")
 		)
@@ -31757,6 +31995,15 @@
 			)
 		)
 		(property "LCSC Part #" "C426708"
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "1727-6088-1-ND"
 			(at 127 52.07 0)
 			(effects
 				(font
@@ -31896,6 +32143,15 @@
 			)
 		)
 		(property "LCSC Part #" "C145179"
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "RB521S30T1GOSCT-ND"
 			(at 116.84 74.93 0)
 			(effects
 				(font
@@ -32053,6 +32309,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4532GLFCT-ND"
+			(at 302.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0a6aea57-ec53-4b5b-a81c-cfaa15174ead")
 		)
@@ -32193,6 +32458,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202394"
+			(at 86.36 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1001GLFCT-ND"
 			(at 86.36 34.29 0)
 			(effects
 				(font
@@ -32359,6 +32633,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 207.01 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de81e1e9-a8ed-4c1a-a05e-3e02a5c3bfe7")
 		)
@@ -32499,6 +32782,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202396"
+			(at 73.66 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
 			(at 73.66 199.39 0)
 			(effects
 				(font
@@ -32659,6 +32951,15 @@
 			)
 		)
 		(property "LCSC Part #" "C242160"
+			(at 246.38 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "P0.0JCT-ND"
 			(at 246.38 76.2 0)
 			(effects
 				(font
@@ -33160,6 +33461,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4993GLFCT-ND"
+			(at 214.63 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "48c2a318-e257-4b4a-b5c8-998d68a541b0")
 		)
@@ -33280,6 +33590,15 @@
 			)
 		)
 		(property "LCSC Part #" "C391643"
+			(at 368.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "3757-PJE138K_R1_00001CT-ND"
 			(at 368.3 152.4 0)
 			(effects
 				(font
@@ -33752,6 +34071,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-3244-1-ND"
+			(at 265.43 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "572a2519-5823-4ca2-bffc-17aa2cdc82ea")
 		)
@@ -33911,6 +34239,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-GRM155C61E475ME15JCT-ND"
+			(at 242.57 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "97e5c662-6338-48d6-b233-723160211112")
 		)
@@ -34030,6 +34367,15 @@
 			)
 		)
 		(property "LCSC Part #" "C41364466"
+			(at 360.68 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "ESD9X5.0ST5GOSCT-ND"
 			(at 360.68 201.93 0)
 			(effects
 				(font
@@ -34194,6 +34540,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "846-PMR03EZPJ000CT-ND"
+			(at 132.08 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d15889b-9896-4df9-bec0-4d1514dca909")
 		)
@@ -34334,6 +34689,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202396"
+			(at 363.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
 			(at 363.22 140.97 0)
 			(effects
 				(font
@@ -34926,6 +35290,15 @@
 			)
 		)
 		(property "LCSC Part #" "C5182093"
+			(at 243.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "296-47864-1-ND"
 			(at 243.84 55.88 0)
 			(effects
 				(font
@@ -35612,6 +35985,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 73.66 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "965d4a8d-a3c8-4fe4-aee9-6e55e9f63739")
 		)
@@ -35730,6 +36112,15 @@
 			)
 		)
 		(property "LCSC Part #" "C146367"
+			(at 63.5 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "SSM3J332RLFCT-ND"
 			(at 63.5 172.72 0)
 			(effects
 				(font
@@ -35890,6 +36281,15 @@
 			)
 		)
 		(property "LCSC Part #" "C242160"
+			(at 234.95 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "P0.0JCT-ND"
 			(at 234.95 181.61 0)
 			(effects
 				(font
@@ -36150,6 +36550,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "P0.0JCT-ND"
+			(at 190.5 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b7b8446-1b56-4d32-8207-520c84d8008a")
 		)
@@ -36309,6 +36718,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "311-1729-1-ND"
+			(at 355.6 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A106MQ5NUNC"
+			(at 355.6 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7bc661f8-67ff-45a1-9d81-0207070656d3")
 		)
@@ -36446,6 +36873,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "118-CR0402-FX-7322GLFCT-ND"
+			(at 302.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -36669,6 +37105,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "1727-6068-1-ND"
+			(at 170.18 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adf8595f-9503-4fbd-b027-dfb4c214a1a0")
 		)
@@ -36837,6 +37282,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "846-PMR03EZPJ000CT-ND"
+			(at 344.17 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3df36c9-579b-4138-998c-db796dee5615")
 		)
@@ -36978,6 +37432,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202396"
+			(at 302.26 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
 			(at 302.26 207.01 0)
 			(effects
 				(font
@@ -37134,6 +37597,15 @@
 			)
 		)
 		(property "LCSC Part #" "C253507"
+			(at 374.65 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "846-PMR03EZPJ000CT-ND"
 			(at 374.65 121.92 0)
 			(effects
 				(font
@@ -37301,6 +37773,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0603-J/-000ELFCT-ND"
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c08d5daa-6bde-4d44-8a8f-9d1d9ea1cc3e")
 		)
@@ -37441,6 +37922,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2077217"
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-2003GLFCT-ND"
 			(at 109.22 39.37 0)
 			(effects
 				(font
@@ -37600,6 +38090,15 @@
 			)
 		)
 		(property "LCSC Part #" "C242160"
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "P0.0JCT-ND"
 			(at 327.66 73.66 0)
 			(effects
 				(font
@@ -37850,6 +38349,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4993GLFCT-ND"
+			(at 214.63 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8a0207f9-2138-49cc-ab04-b647e6f589f1")
 		)
@@ -38020,6 +38528,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "SRP6050CA-1R0MCT-ND"
+			(at 293.37 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1807f30b-a99e-4470-bf6b-1b91e6021ed5")
 		)
@@ -38137,6 +38654,15 @@
 			)
 		)
 		(property "LCSC Part #" "C145179"
+			(at 95.25 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "RB521S30T1GOSCT-ND"
 			(at 95.25 73.66 0)
 			(effects
 				(font
@@ -38294,6 +38820,15 @@
 			)
 		)
 		(property "LCSC Part #" "C85960"
+			(at 288.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "490-10697-1-ND"
 			(at 288.29 129.54 0)
 			(effects
 				(font
@@ -38579,6 +39114,15 @@
 			)
 		)
 		(property "LCSC Part #" "C3752282"
+			(at 339.09 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "296-50251-1-ND"
 			(at 339.09 71.12 0)
 			(effects
 				(font
@@ -39117,6 +39661,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4701GLFCT-ND"
+			(at 132.08 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37206756-b57b-4ed2-a8ac-5ea7610e9d16")
 		)
@@ -39285,6 +39838,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "1276-CL21A226MAYNNNECT-ND"
+			(at 198.12 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd18f0b6-0908-4bf2-b5a2-03e8fd87d9bd")
 		)
@@ -39443,6 +40005,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 233.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e7caf46-b3ef-475c-940e-e6cd73f50c14")
 		)
@@ -39591,6 +40162,15 @@
 			)
 		)
 		(property "LCSC Part #" "C253507"
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "846-PMR03EZPJ000CT-ND"
 			(at 58.42 217.17 0)
 			(effects
 				(font
@@ -39886,6 +40466,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "ESD9X5.0ST5GOSCT-ND"
+			(at 382.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9edb5b5-7771-4f67-b184-06a28306b680")
 		)
@@ -40054,6 +40643,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "1276-CL21A226MAYNNNECT-ND"
+			(at 189.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1aa2e7ac-446e-4548-b2c6-a2c15996035c")
 		)
@@ -40205,6 +40803,24 @@
 			)
 		)
 		(property "LCSC Part #" "C105884"
+			(at 106.68 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "311-1729-1-ND"
+			(at 106.68 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A106MQ5NUNC"
 			(at 106.68 67.31 0)
 			(effects
 				(font
@@ -40530,6 +41146,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-GRM155C61E475ME15JCT-ND"
+			(at 242.57 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d4ce53ee-15c5-470e-8ec8-2c23945f9101")
 		)
@@ -40690,6 +41315,15 @@
 			)
 		)
 		(property "LCSC Part #" "C602037"
+			(at 189.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "1276-CL21A226MAYNNNECT-ND"
 			(at 189.23 205.74 0)
 			(effects
 				(font
@@ -41025,6 +41659,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202396"
+			(at 302.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
 			(at 302.26 148.59 0)
 			(effects
 				(font
@@ -42023,6 +42666,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "445-7368-1-ND"
+			(at 233.68 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A105KA5NQNC"
+			(at 233.68 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2eb6f5b-2f91-4333-8086-d0ac9d9b140a")
 		)
@@ -42264,6 +42925,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 50.8 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4d92940-7a02-4ae9-9f49-db2d9a8985e5")
 		)
@@ -42414,6 +43084,24 @@
 			)
 		)
 		(property "LCSC Part #" "C2182694"
+			(at 233.68 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "445-7368-1-ND"
+			(at 233.68 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A105KA5NQNC"
 			(at 233.68 153.67 0)
 			(effects
 				(font
@@ -42860,6 +43548,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e2c1e0f-9d74-4fc0-a3e9-8f0b706d272d")
 		)
@@ -42978,6 +43675,15 @@
 			)
 		)
 		(property "LCSC Part #" "C221841"
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "401-2016-1-ND"
 			(at 80.01 59.69 0)
 			(effects
 				(font
@@ -43149,6 +43855,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b754d138-11ea-4e96-9e6c-648f8ee8947c")
 		)
@@ -43267,6 +43982,15 @@
 			)
 		)
 		(property "LCSC Part #" "C7436819"
+			(at 29.21 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "WM26097CT-ND"
 			(at 29.21 118.11 0)
 			(effects
 				(font
@@ -43721,6 +44445,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "SSM3J332RLFCT-ND"
+			(at 374.65 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52a2c2c2-3ea7-4576-95c8-4003a19fbaaf")
 		)
@@ -44042,6 +44775,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 207.01 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55811806-337a-4f5e-8b2b-ce65c2de7d90")
 		)
@@ -44276,6 +45018,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2077217"
+			(at 223.52 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-2003GLFCT-ND"
 			(at 223.52 55.88 0)
 			(effects
 				(font
@@ -45029,6 +45780,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "BCM857BS-7-FDICT-ND"
+			(at 69.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "11bf19b9-7bfa-4e11-8152-7da695f9e8b2")
 		)
@@ -45160,6 +45920,15 @@
 			)
 		)
 		(property "LCSC Part #" "C105896"
+			(at 69.85 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "BCM857BS-7-FDICT-ND"
 			(at 69.85 184.15 0)
 			(effects
 				(font
@@ -46075,6 +46844,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-GRM155R61E105KE11JCT-ND"
+			(at 119.38 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A105KA5NQNC"
+			(at 119.38 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5df2341f-3da8-4a1b-8f46-792272225c33")
 		)
@@ -46194,6 +46981,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2071422"
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "SIC431AED-T1-GE3CT-ND"
 			(at 251.46 129.54 0)
 			(effects
 				(font
@@ -46523,6 +47319,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-2701GLFCT-ND"
+			(at 223.52 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3b9317e8-5742-4f22-86fa-748c5f17d404")
 		)
@@ -46743,6 +47548,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "SSM3J332RLFCT-ND"
+			(at 132.08 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94716e46-4304-495b-8deb-757048b8ad8c")
 		)
@@ -46908,6 +47722,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2049215"
+			(at 293.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "SRP5030CA-R56MCT-ND"
 			(at 293.37 193.04 0)
 			(effects
 				(font
@@ -47158,6 +47981,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4993GLFCT-ND"
+			(at 223.52 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "897bb67e-52b3-4c10-9aa9-2196edc9f9d2")
 		)
@@ -47298,6 +48130,15 @@
 			)
 		)
 		(property "LCSC Part #" "C202396"
+			(at 205.74 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-1002GLFCT-ND"
 			(at 205.74 241.3 0)
 			(effects
 				(font
@@ -47539,6 +48380,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "1276-CL21A226MAYNNNECT-ND"
+			(at 198.12 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bedbe0e5-b637-407d-b940-0a73d012cbb5")
 		)
@@ -47679,6 +48529,15 @@
 			)
 		)
 		(property "LCSC Part #" "C19946422"
+			(at 110.49 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0402-FX-2000GLFCT-ND"
 			(at 110.49 78.74 0)
 			(effects
 				(font
@@ -47835,6 +48694,15 @@
 			)
 		)
 		(property "LCSC Part #" "C253507"
+			(at 58.42 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "846-PMR03EZPJ000CT-ND"
 			(at 58.42 209.55 0)
 			(effects
 				(font
@@ -48386,6 +49254,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-4703GLFCT-ND"
+			(at 254 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "16febe72-112a-4b1c-9202-e3aaf321477b")
 		)
@@ -48880,6 +49757,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-2002GLFCT-ND"
+			(at 223.52 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba8ad99c-2265-49af-bd30-d79c0602e2cb")
 		)
@@ -49029,6 +49915,15 @@
 			)
 		)
 		(property "LCSC Part #" "C85960"
+			(at 288.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "490-10697-1-ND"
 			(at 288.29 187.96 0)
 			(effects
 				(font
@@ -49195,6 +50090,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 233.68 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc91d42e-eb02-48d2-bca1-a2e7b884d466")
 		)
@@ -49313,6 +50217,15 @@
 			)
 		)
 		(property "LCSC Part #" "C2071422"
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "SIC431AED-T1-GE3CT-ND"
 			(at 251.46 187.96 0)
 			(effects
 				(font
@@ -49640,6 +50553,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CR0402-FX-1003GLFCT-ND"
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3fa0b83-92fb-4c78-bb46-e17d9ee13a5f")
 		)
@@ -49791,6 +50713,15 @@
 			)
 		)
 		(property "LCSC Part #" "C512908"
+			(at 365.76 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "CR0603-J/-000ELFCT-ND"
 			(at 365.76 30.48 0)
 			(effects
 				(font
@@ -50571,6 +51502,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "296-LM73100RPWRCT-ND"
+			(at 217.17 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "2d61913f-77d8-45fc-bc11-2e2726cdaa2e")
 		)
@@ -50715,6 +51655,15 @@
 			)
 		)
 		(property "LCSC Part #" "C391643"
+			(at 259.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "3757-PJE138K_R1_00001CT-ND"
 			(at 259.08 49.53 0)
 			(effects
 				(font
@@ -50946,6 +51895,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "CKN10243CT-ND"
+			(at 243.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a748932c-b63b-44b4-ae27-2e99bfda5c5c")
 		)
@@ -51098,6 +52056,15 @@
 			)
 		)
 		(property "LCSC Part #" "C253507"
+			(at 344.17 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "846-PMR03EZPJ000CT-ND"
 			(at 344.17 193.04 0)
 			(effects
 				(font
@@ -51326,6 +52293,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "DF2S30FSL3MCT-ND"
+			(at 166.37 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "af0277bb-211e-4f2f-8c73-4673d405e0cf")
 		)
@@ -51444,6 +52420,15 @@
 			)
 		)
 		(property "LCSC Part #" "C3210761"
+			(at 217.17 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "296-LM73100RPWRCT-ND"
 			(at 217.17 237.49 0)
 			(effects
 				(font
@@ -51820,6 +52805,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "490-10697-1-ND"
+			(at 146.05 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d472f45-383c-4701-8d6f-a3588ca6ed73")
 		)
@@ -52073,6 +53067,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "311-1729-1-ND"
+			(at 60.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A106MQ5NUNC"
+			(at 60.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac05ff80-a687-41a4-b79c-cfe06c82d80b")
 		)
@@ -52232,6 +53244,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey Part #" "311-1729-1-ND"
+			(at 299.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative MPN" "CL05A106MQ5NUNC"
+			(at 299.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21cdd776-eb7a-4c5c-b28a-666ee3a61193")
 		)
@@ -52352,6 +53382,15 @@
 			)
 		)
 		(property "LCSC Part #" "C391643"
+			(at 36.83 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "3757-PJE138K_R1_00001CT-ND"
 			(at 36.83 71.12 0)
 			(effects
 				(font
@@ -52575,6 +53614,15 @@
 			)
 		)
 		(property "LCSC Part #" "C5182093"
+			(at 36.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "296-47864-1-ND"
 			(at 36.83 41.91 0)
 			(effects
 				(font
